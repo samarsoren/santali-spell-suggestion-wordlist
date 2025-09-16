@@ -38,7 +38,7 @@ If you use this dataset in research, please cite as:
 
 > Soren, Samar Michael. 2025. *Santali Spell Suggestion Wordlist (36,694 Words)*. Language Resource Hub (LRH). Licensed under CC BY-NC-SA 4.0. [GitHub: Samar M Soren](https://github.com/SamarMSoren)
 
-DOI (via Zenodo, when available): [10.5281/zenodo.17129951]
+DOI (via Zenodo): [10.5281/zenodo.17129951]
 
 ---
 

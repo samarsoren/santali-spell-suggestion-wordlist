@@ -15,5 +15,9 @@ the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Lic
 - ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 - No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+## AI-safe Usage Note:
+- This dataset may be used for **non-commercial AI and NLP research** only.  
+- Commercial AI training or use of this dataset **requires explicit permission** from the copyright holder.  
+
 ## Disclaimer:
 This dataset is provided "as-is" without any warranty. The copyright holder does not take responsibility for misuse or misinterpretation of the dataset.

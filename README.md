@@ -31,13 +31,16 @@ This dataset is released under the
 
 Full license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+**AI-safe Usage Note:**  
+- This dataset may be used for **non-commercial AI and NLP research** only.  
+- Commercial AI training or use of this dataset **requires explicit permission** from the copyright holder.  
+
 ---
 
 ## ✍️ Citation
 If you use this dataset in research, please cite as:
 
-> Soren, Samar Michael. 2025. *Santali Spell Suggestion Wordlist (36,694 Words)*. Language Resource Hub (LRH). Licensed under CC BY-NC-SA 4.0. [GitHub: Samar M Soren](https://github.com/SamarMSoren)
-
+> Soren, Samar Michael. 2025. *Santali Spell Suggestion Wordlist (36,694 Words)*. Language Resource Hub (LRH). Licensed under CC BY-NC-SA 4.0. [GitHub: Samar M Soren](https://github.com/SamarMSoren)  
 DOI (via Zenodo): [10.5281/zenodo.17129951](https://zenodo.org/records/17129952)
 
 ---
